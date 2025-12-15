@@ -47,40 +47,6 @@ Dataset: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 
 ---
 
-## 📂 Project Structure
-
-waste-classification/
-│
-├── CNN/
-│ ├── main_2_alexNet.py # AlexNet training pipeline (ALEX1–ALEX4)
-│ ├── Outputs/ # Saved AlexNet models (.pth)
-│ └── Models/
-│ └── alexnet_overrided.py # Custom AlexNet implementation
-│
-├── Traditional/
-│ ├── Model/ # SVM / RF / XGBoost (.pkl)
-│ └── Results/ # Traditional ML results
-│
-├── Results/
-│ └── ALEX/
-│ ├── ALEX1/
-│ ├── ALEX2/
-│ ├── ALEX3/
-│ ├── ALEX4/
-│ └── ...
-│
-├── lib/
-│ ├── dataset_precreator.py
-│ ├── generic_image_dataset.py
-│ ├── feature_extractor.py # MobileNet feature extractor
-│ └── metrics.py
-│
-├── Datasets/ # Waste images
-├── try.py # Inference script (CNN + ML comparison)
-├── requirements.txt
-└── README.md
-
-
 ## ⚙️ Installation
 
 ### 1️⃣ Create virtual environment
