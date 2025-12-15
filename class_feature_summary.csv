@@ -1,0 +1,7 @@
+class,mean_hue_mean,mean_hue_std,mean_saturation_mean,mean_saturation_std,mean_value_mean,mean_value_std,bright_ratio_mean,bright_ratio_std
+battery,35.56,27.06,24.6,28.63,194.0,34.29,0.63,0.22
+cardboard,27.52,22.53,71.96,34.05,187.65,31.78,0.46,0.27
+clothes,60.72,32.19,73.01,38.47,148.02,24.77,0.23,0.17
+metal,48.67,33.46,32.25,28.82,181.84,35.37,0.48,0.24
+paper,40.04,24.77,38.76,28.36,178.51,24.53,0.43,0.2
+plastic,62.68,35.62,36.19,31.79,194.48,34.78,0.51,0.31

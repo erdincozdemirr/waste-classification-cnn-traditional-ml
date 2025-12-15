@@ -1,0 +1,12 @@
+{
+  "name": "waste-classification",
+  "packages": [
+    "opencv-python",
+    "matplotlib",
+    "pandas",
+    "scikit-learn",
+    "numpy",
+    "torch",
+    "torchvision"
+  ]
+}
