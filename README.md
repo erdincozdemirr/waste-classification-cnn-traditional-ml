@@ -22,6 +22,10 @@ This project aims to explore:
 
 ---
 
+Dataset: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+
+---
+
 ## 🧠 Models Used
 
 ### Deep Learning
@@ -76,10 +80,6 @@ waste-classification/
 ├── requirements.txt
 └── README.md
 
-yaml
-Kodu kopyala
-
----
 
 ## ⚙️ Installation
 
